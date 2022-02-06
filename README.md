@@ -21,3 +21,7 @@ With the help of Trybe, which is a programming school, I've had the opportunity 
 </div>
   
  ![Snake animation](https://github.com/ArthurBMessias/ArthurBMessias/blob/output/github-contribution-grid-snake.svg)
+
+<h2><p align="center"> Let's work together! Call me on!</p></h2>
+<a href="https://www.linkedin.com/in/arthur-bernardo-messias/" target='_blank'><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p></div>
