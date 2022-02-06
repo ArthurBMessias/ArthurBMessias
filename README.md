@@ -11,7 +11,7 @@ With the help of Trybe, which is a programming school, I've had the opportunity 
 </div>
 
 &nbsp;
-<h2><p align="center"> 👨‍💻 Experiências /// Experiences 👨‍💻</p></h2>
+<h2><p align="center"> Experiences with 👨‍💻</p></h2>
 
 <div style="display: block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
