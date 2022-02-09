@@ -3,6 +3,10 @@
 My name is Arthur and I am in a career transition moment.
 
 With the help of Trybe, which is a programming school, I've had the opportunity to go through several challenges in the development of applications with HTML, CSS, JS and REACT, some of them you can see <a href="https://github.com/ArthurBMessias/Projects">here!
+  
+Hola! Mi nombre es Arthur y estoy en un momento de transición de carrera.
+
+Con ayujae de la escuela Trybe, una escuela de programación, he tenido la oportunidad de pasar por varios desafíos en el desarrollo de aplicaciones con HTML, CSS, JS y REACT, ¡algunos de ellos los puedes ver aquí!
 
 <div align="center">
   <a href="https://github.com/ArthurBMessias">
