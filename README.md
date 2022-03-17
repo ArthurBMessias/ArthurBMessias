@@ -7,7 +7,7 @@ With the help of Trybe, which is a programming school, I've had the opportunity 
 
   <h2><p align="center"> Acerca...</p></h2>
 Hola! Mi nombre es Arthur y estoy en un momento de transición de carrera.
-Con ayujae de la escuela Trybe, una escuela de programación, he tenido la oportunidad de pasar por varios desafíos en el desarrollo de aplicaciones con HTML, CSS, JS y REACT, ¡algunos de ellos puedes ver <a href="https://github.com/ArthurBMessias/Projects">aquí!
+Con ayuda de la escuela Trybe, una escuela de programación, he tenido la oportunidad de pasar por varios desafíos en el desarrollo de aplicaciones con HTML, CSS, JS y REACT, ¡algunos de ellos puedes ver <a href="https://github.com/ArthurBMessias/Projects">aquí!
 
 
 <div align="center">
