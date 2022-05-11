@@ -1,13 +1,13 @@
 <h2><p align="center"> About me...</p></h2>
 
-My name is Arthur and I am in a career transition moment.
+My name is Arthur a Front-End Developer!
 
-With the help of Trybe, which is a programming school, I've had the opportunity to go through several challenges in the development of applications with HTML, CSS, JS and REACT, some of them you can see <a href="https://github.com/ArthurBMessias/Projects">here!
+I've had the opportunity to go through several challenges in the development of applications with HTML, CSS, JS and REACT, some of them you can see <a href="https://github.com/ArthurBMessias/Projects">here!
 
 
   <h2><p align="center"> Acerca...</p></h2>
-Hola! Mi nombre es Arthur y estoy en un momento de transición de carrera.
-Con ayuda de la escuela Trybe, una escuela de programación, he tenido la oportunidad de pasar por varios desafíos en el desarrollo de aplicaciones con HTML, CSS, JS y REACT, ¡algunos de ellos puedes ver <a href="https://github.com/ArthurBMessias/Projects">aquí!
+Hola! Mi nombre es Arthur y soy un Front-End Developer.
+Hay tenido la oportunidad de pasar por varios desafíos en el desarrollo de aplicaciones con HTML, CSS, JS y REACT, ¡algunos de ellos puedes ver <a href="https://github.com/ArthurBMessias/Projects">aquí!
 
 
 <div align="center">
