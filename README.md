@@ -5,11 +5,6 @@ My name is Arthur a Front-End Developer!
 I've had the opportunity to go through several challenges in the development of applications with HTML, CSS, JS and REACT, some of them you can see <a href="https://github.com/ArthurBMessias/Projects">here!
 
 
-  <h2><p align="center"> Acerca...</p></h2>
-Hola! Mi nombre es Arthur y soy un Front-End Developer.
-Hay tenido la oportunidad de pasar por varios desafíos en el desarrollo de aplicaciones con HTML, CSS, JS y REACT, ¡algunos de ellos puedes ver <a href="https://github.com/ArthurBMessias/Projects">aquí!
-
-
 <div align="center">
   <a href="https://github.com/ArthurBMessias">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurBMessias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
